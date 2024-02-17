@@ -83,13 +83,12 @@ months: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto
 lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
-let menu = `𝗟𝗼𝗻𝗴 𝗧𝗶𝗺𝗲 𝗕𝗼𝘁
+let menu = `𝗤𝘂𝗲𝘀𝗼 𝗕𝗼𝘁
 
 *╔══ ≪ OWNER BOT ≫ ══╗*
-*║* 👤 Creador : Cristhofer
-*║* 📱 Numero ; +51 936 994 155
+*║* 👤 Creador : Queso
+*║* 📱 Numero ; +57 300 9684519
 *║* 🤑 Adquirir : +51 936 994 155
-*║* 👻 Ig Team : ${md}
 *║* 💻 Tiempo Activo : ${uptime}
 *╚══ ≪ •❈• ≫ ══╝*
 
